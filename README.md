@@ -13,6 +13,12 @@
 
 **Python Developer &nbsp;·&nbsp; App Tinkerer &nbsp;·&nbsp; Gamer &nbsp;·&nbsp; Script Gremlin**
 
+<!-- CelSuite site — quiet text link, no flashy badge -->
+<p>
+  <a href="https://henrycarm.github.io/CelSuite/"><strong>CelSuite | Studio Apps</strong></a>
+  &nbsp;— handcrafted desktop tools, art toys &amp; web toys
+</p>
+
 ![Python](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/mini-python.svg)
 ![Apps & Scripts](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/mini-apps.svg)
 ![Games](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/mini-games.svg)
@@ -83,7 +89,7 @@
       <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/icons/scratch.svg" width="128" height="128"/><br/><sub><b>Scratch</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/icons/docker.svg" width="128" height="128"/><br/><sub><b>Docker</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/icons/kivy.svg" width="128" height="128"/><br/><sub><b>Kivy</b></sub>
     </td>
   </tr>
 </table>
@@ -120,31 +126,31 @@
     <th>Stars</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager">📦 OBLIVION</a></td>
+    <td><a href="https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager">OBLIVION</a></td>
     <td>Stop letting your 1.12 mods crash your 1.20 game — aesthetic Minecraft instance manager</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/minecraft.svg"/></td>
     <td>★ 1</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HenryCarm/CelStudio_Watermark_Remover">🪄 Watermark Remover</a></td>
+    <td><a href="https://github.com/HenryCarm/CelStudio_Watermark_Remover">Watermark Remover</a></td>
     <td>Sleek offline watermark remover built with OpenCV &amp; PyQt6</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/python.svg"/></td>
     <td>★ 0</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HenryCarm/Gemini-Code-Minimizer-Extension-for-Chromium-Browsers">✨ Gemini Code Minimizer</a></td>
+    <td><a href="https://github.com/HenryCarm/Gemini-Code-Minimizer-Extension-for-Chromium-Browsers">Gemini Code Minimizer</a></td>
     <td>Adds minimize/maximize and copy buttons to code blocks on Gemini</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/ai.svg"/></td>
     <td>★ 0</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HenryCarm/CelSuite_P2P-Screen-Mirroring">📡 P2P Screen Mirroring</a></td>
+    <td><a href="https://github.com/HenryCarm/CelSuite_P2P-Screen-Mirroring">P2P Screen Mirroring</a></td>
     <td>Scrcpy WiFi auto-launcher / heartbeat mirroring</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/automation.svg"/></td>
     <td>★ 0</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HenryCarm/OpenCode-History-Viewer">📜 OpenCode History Viewer</a></td>
+    <td><a href="https://github.com/HenryCarm/OpenCode-History-Viewer">OpenCode History Viewer</a></td>
     <td>Browse and inspect OpenCode chat histories</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/python.svg"/></td>
     <td>★ 0</td>
@@ -157,10 +163,10 @@
 
 ```python
 currently = {
-    "🖥️ Desktop Apps":   "PySide6 · Liquid Glass UIs · Nuitka packaging",
-    "🎮 Minecraft":       "OBLIVION mod manager · Aliucord themes · 1.12→1.20 surgery",
-    "🔧 Automation":      "Screen mirroring · proxy dispatchers · bot scripts",
-    "🤖 AI Toys":         "OpenCode agents · local LLM tinkering · Gemini extensions",
+    "Desktop Apps":    "PySide6 · Liquid Glass UIs · Nuitka packaging · Kivy",
+    "Minecraft":       "OBLIVION mod manager · Aliucord themes · 1.12→1.20 surgery",
+    "Automation":      "Screen mirroring · proxy dispatchers · bot scripts",
+    "AI Toys":         "OpenCode agents · local LLM tinkering · Gemini extensions",
 }
 ```
 
@@ -174,7 +180,7 @@ currently = {
 
 <div align="center">
 
-🟢 &nbsp;**Tinkering in the terminal** &nbsp;·&nbsp; Linux Mint 🐧 &nbsp;·&nbsp; 2026
+**Tinkering in the terminal** &nbsp;·&nbsp; Linux Mint &nbsp;·&nbsp; 2026
 
 <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/views.svg" alt="Profile Views"/>
 
