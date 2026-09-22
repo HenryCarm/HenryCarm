@@ -5,7 +5,7 @@
 
 <!-- Animated terminal typing — self-hosted -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/typing.svg" alt="Typing SVG"/>
+  <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@b498ebaa8bf58580ab34888943f55c6fd0191574/assets/typing.svg" alt="Typing SVG"/>
 </div>
 
 ### HenryJ
@@ -86,7 +86,7 @@
       <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@ab36b6fef13a16388a0d2d81eb2721c20b6a6de4/assets/icons/android.svg" width="128" height="128"/><br/><sub><b>Android</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@ab36b6fef13a16388a0d2d81eb2721c20b6a6de4/assets/icons/scratch.svg" width="128" height="128"/><br/><sub><b>Scratch</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@b498ebaa8bf58580ab34888943f55c6fd0191574/assets/icons/scratch.svg" width="128" height="128"/><br/><sub><b>Scratch</b></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@ab36b6fef13a16388a0d2d81eb2721c20b6a6de4/assets/icons/kivy.svg" width="128" height="128"/><br/><sub><b>Kivy</b></sub>
