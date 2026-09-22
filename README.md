@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@56a12f2291a7d561c5540d62488f692b78938ec1/assets/stats.svg" alt="GitHub Stats"/>
+<img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@2db14dc586b891a56dc8adb681693242fa422c14/assets/stats.svg" alt="GitHub Stats"/>
 
 <img height="155" src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/streak.svg" alt="Streak"/>
 &nbsp;
@@ -170,9 +170,9 @@ currently = {
 
 [![GitHub](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/github.svg)](https://github.com/HenryCarm)
 &nbsp;
-[![Gmail](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@56a12f2291a7d561c5540d62488f692b78938ec1/assets/badges/gmail.svg)](mailto:hnrycrm@gmail.com)
+[![Gmail](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@2db14dc586b891a56dc8adb681693242fa422c14/assets/badges/gmail.svg)](mailto:hnrycrm@gmail.com)
 &nbsp;
-[![WhatsApp](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@56a12f2291a7d561c5540d62488f692b78938ec1/assets/badges/whatsapp.svg)](https://wa.me/2349017639070)
+[![WhatsApp](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@2db14dc586b891a56dc8adb681693242fa422c14/assets/badges/whatsapp.svg)](https://wa.me/2349017639070)
 
 ---
 
