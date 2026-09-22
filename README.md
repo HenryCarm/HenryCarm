@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/stats.svg" alt="GitHub Stats"/>
+<img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@56a12f2291a7d561c5540d62488f692b78938ec1/assets/stats.svg" alt="GitHub Stats"/>
 
 <img height="155" src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/streak.svg" alt="Streak"/>
 &nbsp;
@@ -123,37 +123,31 @@
     <th>Project</th>
     <th>Description</th>
     <th>Stack</th>
-    <th>Stars</th>
   </tr>
   <tr>
     <td><a href="https://github.com/HenryCarm/Oblivion-Vaults-Minecraft_Mod_Manager">OBLIVION</a></td>
     <td>Stop letting your 1.12 mods crash your 1.20 game — aesthetic Minecraft instance manager</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/minecraft.svg"/></td>
-    <td>★ 1</td>
   </tr>
   <tr>
     <td><a href="https://github.com/HenryCarm/CelStudio_Watermark_Remover">Watermark Remover</a></td>
     <td>Sleek offline watermark remover built with OpenCV &amp; PyQt6</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/python.svg"/></td>
-    <td>★ 0</td>
   </tr>
   <tr>
     <td><a href="https://github.com/HenryCarm/Gemini-Code-Minimizer-Extension-for-Chromium-Browsers">Gemini Code Minimizer</a></td>
     <td>Adds minimize/maximize and copy buttons to code blocks on Gemini</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/ai.svg"/></td>
-    <td>★ 0</td>
   </tr>
   <tr>
     <td><a href="https://github.com/HenryCarm/CelSuite_P2P-Screen-Mirroring">P2P Screen Mirroring</a></td>
     <td>Scrcpy WiFi auto-launcher / heartbeat mirroring</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/automation.svg"/></td>
-    <td>★ 0</td>
   </tr>
   <tr>
     <td><a href="https://github.com/HenryCarm/OpenCode-History-Viewer">OpenCode History Viewer</a></td>
     <td>Browse and inspect OpenCode chat histories</td>
     <td><img src="https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/python.svg"/></td>
-    <td>★ 0</td>
   </tr>
 </table>
 
@@ -175,6 +169,10 @@ currently = {
 ### `connect --with-me`
 
 [![GitHub](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@main/assets/badges/github.svg)](https://github.com/HenryCarm)
+&nbsp;
+[![Gmail](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@56a12f2291a7d561c5540d62488f692b78938ec1/assets/badges/gmail.svg)](mailto:hnrycrm@gmail.com)
+&nbsp;
+[![WhatsApp](https://cdn.jsdelivr.net/gh/HenryCarm/my_readme_profile@56a12f2291a7d561c5540d62488f692b78938ec1/assets/badges/whatsapp.svg)](https://wa.me/2349017639070)
 
 ---
 
